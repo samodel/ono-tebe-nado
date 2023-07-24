@@ -302,10 +302,8 @@ body {
   text-underline-offset: 0.2em;
 }
 .footer__social-list {
-  display: flex;justify-content: end;
-  align-self: center;
-  margin-bottom: 50px;
-  padding-left: 75px;
+  display: flex;
+  justify-content: end;
   font-size: 18px;
 }
 
