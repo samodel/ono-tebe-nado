@@ -1,1 +1,1 @@
-https://github.com/samodel/ono-tebe-nado-fd
+https://github.com/samodel/ono-tebe-nado.git
