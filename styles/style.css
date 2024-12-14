@@ -1,9 +1,3 @@
-body {
-  max-width: 1100px;
-  margin: auto;
-  font-family: 'Raleway', sans-serif;
-}
-
 .header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -167,11 +161,12 @@ body {
 }
 
 .lots__card-list {
+  width: 1100px;
   display: flex;
-  justify-content: center;
   gap: 25px;
   padding-top: 27px;
   list-style: none;
+  flex-wrap: wrap;
 }
 
 .card {
